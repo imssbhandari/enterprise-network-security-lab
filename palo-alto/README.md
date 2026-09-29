@@ -67,6 +67,7 @@ set network virtual-router default routing-table ip static-route to-10.1.10.0 de
 Verification Commands Used
 show session all filter source application ping
 show session id 143
+
 What I Tested
 
 HA Failover
