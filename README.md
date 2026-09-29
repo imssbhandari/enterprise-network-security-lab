@@ -6,7 +6,7 @@ Full write-up
 
 See /palo-alto/README.md for the complete architecture, configuration, and testing documentation.
 
-Skills Demonstrated
+**Skills Demonstrated****
 Firewall HA clustering (Active/Passive) — link/interface planning, priority-based failover
 VRRP gateway redundancy across dual ISPs
 Zone-based security policy design (Trust / Untrust / DMZ)
